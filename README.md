@@ -7,7 +7,7 @@ These jupyter notebooks will get text from Pantip with following procedure:
 * 03: Scrape texts from each links  
   
 The text data will be following format:  
-DATE@@@(text content)  
+DATE@@-(text content)  
 
 New line characters will be converted to single space  
 Each row show single post data
